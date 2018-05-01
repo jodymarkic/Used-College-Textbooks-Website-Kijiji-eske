@@ -1,0 +1,2 @@
+# Used-College-Textbooks-Website-Kijiji-eske
+This project is written in ASP.NET. It's a website that allows your to buy/sell your used college textbooks. Intended for students/college affliates, you can signup, browse, and post your used textbooks here. Like Kijiji purchases and sales are done between buyer and seller, this websites purpose is more for knowlegde of whats out there and how to get intouch with such peoples of interest. 
